@@ -18,7 +18,7 @@ const UpperHeader = () => {
     <div className="bg-black p-1 text-white  text-sm">
       <div className="flex justify-center items-center gap-[20rem] ">
         <div className="flex gap-10">
-          <p  className="flex items-center gap-1  hover:text-[#FFCD4B]">
+          <p  className="flex items-center gap-1 hover:text-[#FFCD4B]">
             <CiLocationOn /> Find a Store
           </p>
           <p className="flex items-center gap-1 hover:text-[#FFCD4B]">
